@@ -14,6 +14,6 @@ The prompt asks for a number between 8 and 128, and contains exception handlers 
 Console logged are the possible additives of the password upon generation.
 A screenshot of the webpage is located in the Assets folder.
 
-GITHUB URL:
+GITHUB URL: https://anthony2428.github.io/Ant-s-Password-Generator/
 
 # 03 JavaScript: Password Generator
