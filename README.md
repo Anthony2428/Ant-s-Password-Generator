@@ -1,4 +1,4 @@
-# Ant-s-Password-Generator</br>
+# Password-Generator</br>
 -----Deployment-----</br>
 Instead of a series of prompts, 4 check boxes appear to ask the user the criteria desired for their password.</br>
 Upon clicking the Generate Password Button either:</br>
